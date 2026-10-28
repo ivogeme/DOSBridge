@@ -1,0 +1,8 @@
+[package]
+name = "dosbridge"
+version = "0.5.0"
+edition = "2024"
+rust-version = "1.85"
+
+[dependencies]
+unicorn-engine = "2.1.5"
