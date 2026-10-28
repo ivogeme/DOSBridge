@@ -139,5 +139,4 @@ traduzidas.
 
 ## Licença
 
-A licença será definida e adicionada separadamente pelo responsável
-pelo projeto.
+A GPLV3
